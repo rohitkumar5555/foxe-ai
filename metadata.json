@@ -1,0 +1,6 @@
+{
+  "name": "FOXE AI Agent",
+  "description": "Real working personal AI agent with autonomous execution engine, browser automation, connected workspace apps, persistent memory, and security sentinel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
